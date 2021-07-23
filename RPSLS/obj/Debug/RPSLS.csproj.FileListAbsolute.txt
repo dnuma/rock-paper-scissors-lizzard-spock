@@ -1,0 +1,16 @@
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\bin\Debug\RPSLS.exe.config
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\bin\Debug\RPSLS.exe
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\bin\Debug\RPSLS.pdb
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\RPSLS.csproj.AssemblyReference.cache
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\MainWindow.g.cs
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\App.g.cs
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\RPSLS_MarkupCompile.cache
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\RPSLS_MarkupCompile.lref
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\MainWindow.baml
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\RPSLS.g.resources
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\RPSLS.Properties.Resources.resources
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\RPSLS.csproj.GenerateResource.cache
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\RPSLS.csproj.CoreCompileInputs.cache
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\RPSLS.exe
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\RPSLS.pdb
+D:\David\Conestoga College\PROG8010 - Software Dev Tech Lab\Week6\RPSLS\RPSLS\obj\Debug\GeneratedInternalTypeHelper.g.cs
